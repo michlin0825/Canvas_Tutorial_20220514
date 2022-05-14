@@ -44,7 +44,7 @@ In this lab, you will assume the role of a business analyst working for a bank. 
 
 ## Upload the dataset to S3 Bucket
 
-The first step is to download the dataset that we will use. You can download it [here](../Data/bank-marketing.csv).
+The first step is to download the dataset that we will use. You can download it [here](../../Lab1/Data/bank-marketing.csv).
 
 Go to the AWS Management Console, search **S3** in the searchbox on top of your console, then go to **S3** service console.
 
@@ -189,7 +189,7 @@ For the sake of this lab, we will go forward with Option 1.
 
 
 
-## [Using the model to generate predictions](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/1-marketing#using-the-model-to-generate-predictions)
+## Using the model to generate predictions
 
 Now that the model is trained, let's use for some predictions. Select **Predict** at the bottom of the **Analyze** page, or choose the **Predict** tab.
 
