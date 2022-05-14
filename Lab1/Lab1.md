@@ -44,7 +44,7 @@ In this lab, you will assume the role of a business analyst working for a bank. 
 
 ## Upload the dataset to S3 Bucket
 
-The first step is to download the dataset that we will use. You can download it [here](https://github.com/michlin0825/Canvas_Tutorial_20220514/Lab1/Data/bank-marketing.csv).
+The first step is to download the dataset that we will use. You can download it [here](../Data/bank-marketing.csv).
 
 Go to the AWS Management Console, search **S3** in the searchbox on top of your console, then go to **S3** service console.
 
